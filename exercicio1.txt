@@ -15,6 +15,7 @@
 		<script>
 			function firstCommit(){​​
 				alert("Eai galera!");
+				alert("Beleza?")
 			}​​
 		</script>
 	</body>
