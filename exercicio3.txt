@@ -15,6 +15,7 @@
 		<script>
 			function firstCommit(){​​
 				alert("acho que foi!");
+				alert("Agora foi !")
 			}​​
 		</script>
 	</body>
